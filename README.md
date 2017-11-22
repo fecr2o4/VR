@@ -1,3 +1,3 @@
-# VR_Unity3D_Executables
+# VR_Unity3D_Projects
 
-This repository contains public versions of some of the Unity3D executable files that I have been working on and their respective data folders. To use any of these files, double-click on the ___.exe file on a computer with VIVE hardware (head-mounted display and hand-held controllers) and the "game" (everything here is educational) should start automatically.
+This repository contains public versions of some of the Unity3D projects that I have cleaned up enough that they might be useful to the public.
